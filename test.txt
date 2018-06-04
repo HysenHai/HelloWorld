@@ -1,0 +1,2 @@
+这是一个测试git到远端的文件。
+this is a file for testing git push origin.
